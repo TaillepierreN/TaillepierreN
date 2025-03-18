@@ -1,20 +1,12 @@
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/taillepierrenicolas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h1 align="center">Hello there 👋</h1>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TaillepierreN.TaillepierreN&left_color=seagreen&right_color=mediumseagreen"  />
 </div>
-
-###
-
-<h1 align="center">Hello there 👋</h1>
 
 ###
 
@@ -23,6 +15,14 @@
 ###
 
 <p align="center">- 🔭 I’m working on various small project to hone my skills<br>- 📚 I'm currently learning at Holberton School France, with the AR/VR specialization <br>- ⚡ In my free time I play games, currently Monster Hunter Wilds</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/taillepierrenicolas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" height="40" alt="rect logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
